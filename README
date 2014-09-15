@@ -1,0 +1,15 @@
+Vicky was NoBullcraft's IRC bot. She handled automatically moderating our IRC
+channel, as well as bridging the IRC-to-minecraft gap to let people in IRC see
+who was online in-game.
+
+Note that some features might not work, as Vicky has been neglected for an
+entire major Minecraft version. This code is just provided as a reference for
+people who might be curious about how our little helper worked internally.
+
+Requirements
+------------
+
+- Ruby v1.9.2
+- [cinch](https://github.com/cinchrb/cinch) v2.0.4
+
+And a few other gems, which I'm sure the error messages will alert you to.
